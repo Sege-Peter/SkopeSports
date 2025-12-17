@@ -1,0 +1,7 @@
+{
+  "name": "SkopeSports Mobile",
+  "description": "Kenya's premier athlete & event hub. Installable sports management platform for events, results, and participation.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}

@@ -1,0 +1,24 @@
+
+{
+  "short_name": "SkopeSports",
+  "name": "SkopeSports Platform",
+  "icons": [
+    {
+      "src": "https://ui-avatars.com/api/?name=S&background=06b6d4&color=fff&size=192",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://ui-avatars.com/api/?name=S&background=06b6d4&color=fff&size=512",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "./index.html",
+  "background_color": "#0f172a",
+  "display": "standalone",
+  "scope": "./",
+  "theme_color": "#0f172a",
+  "description": "Kenya's premier athlete & event hub."
+}
